@@ -4,10 +4,10 @@
     //Definir variáveis que serão necessárias 
 
     //SSID E SENHA DA INTERNET.
-    const char* ssid="Almeida/Aquino";
-    const char* password="almeida77";
+    const char* ssid="";
+    const char* password="";
 
     //HOST para o banco de dados
-    const char* host="192.168.0.110";
+    const char* host="";
 
 #endif
